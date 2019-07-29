@@ -48,9 +48,9 @@ html, body{
     box-sizing: border-box;
 }
 
-   .center{
-      text-align:center;
-   }
+ .center{
+    text-align:center;
+ }
 
 /* FONTS  */
 @font-face{
@@ -328,28 +328,11 @@ h2.entry-title, h3.entry-title {
 @media only screen and (min-width:1700px) {
 
    h1 {
-      font-family: "Gentona_ExtraBold", Arial,sans-serif;
-      font-weight: normal;
       font-size: 3rem;
-      font-style: normal;
       line-height: 1.2;
-      letter-spacing: 1px;
-      color: #004083;
-      margin: 0px;
-      padding: 0px;
-      padding-top: 1rem;
-      padding-bottom: 1rem;
-      display: block;
-      clear: both;
    }
 
 }
-
-
-
-
-
-
 
 h2 {
    font-family: "Quadon_Bold", Arial, sans-serif;
